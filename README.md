@@ -7,11 +7,11 @@ Music Catalog
 title -- artist -- album
 
 - A menu gives the user several options:
-1) Print Catalog
-2) Song Information
-3) Sort
-4) Add Songs
-0) Quit
+ 1) Print Catalog
+ 2) Song Information
+ 3) Sort
+ 4) Add Songs
+ 0) Quit
 ![](https://imgur.com/a/axV2E?raw=true)
 
 - The project relies heavily on data structures, and both array lists and linked lists were implemented to be used. The current version uses array lists for storing data manipulation. 
