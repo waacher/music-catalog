@@ -1,3 +1,5 @@
+# Tests for array list implementation
+
 import unittest
 from array_list import *
 
