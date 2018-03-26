@@ -1,3 +1,5 @@
+# Tests for linked list implementation
+
 import unittest
 from linked_list import *
 
