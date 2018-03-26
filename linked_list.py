@@ -1,4 +1,3 @@
-# Project 2
 # Linked List
 
 # an AnyList is one of 
