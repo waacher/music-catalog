@@ -1,16 +1,10 @@
-# Music Catalog
+Music Catalog
 =========
 
 ### A program for processing text files
 
 - Accepts an input text file of song information according to the following format:
 title -- artist -- album
-The first three lines of the test file are shown below:
-''' 
-hierarchist::pattened--clerklinesses--congregating! plowfoots, squieries
-bedustest, aleggest--crossbenches--vadimonies
-delinquences! wiseasses--periotics! spaniolises! sepultural--ectocommensals
-'''
 
 - A menu gives the user several options:
 ![](https://imgur.com/a/axV2E?raw=true)
