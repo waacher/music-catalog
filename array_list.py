@@ -1,4 +1,3 @@
-# Project 2
 # Array List
 
 # A List represents an array in python
