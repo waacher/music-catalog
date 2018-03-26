@@ -1,4 +1,6 @@
-# Project 2: Music Catalog
+# Music Catalog
+
+# Using array lists
 
 import sys
 sys.setrecursionlimit(99999)
